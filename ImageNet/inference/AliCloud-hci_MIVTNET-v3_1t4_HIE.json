@@ -4,10 +4,10 @@
     "authorEmail": "limou.lm@alibaba-inc.com",
     "framework": "HIE",
     "codeURL": "https://github.com/AliCloud-DAMO-hci/hci_HIEinfer",
-    "commitHash": "1d30011a34e5dc4daff452b476b32dc7a1ebb773",
+    "commitHash": "0ecd20bcd8d99fe2d55286e6e74310b7a5e7140e",
     "model": "MIVTNET-v3",
     "hardware": "Alibaba Cloud [ecs.gn6i-c8g1.2xlarge]",
-    "latency": 0.3137,
+    "latency": 0.3121,
     "top5Accuracy": 93.114,
     "timestamp": "2020-03-20",
     "misc": {
